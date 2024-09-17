@@ -41,9 +41,9 @@
 -->
 
     <!-- Top menu item -->
-<!--
+
     <menuitem name="todolist" id="todolist.menu_root"/>
--->
+
     <!-- menu categories -->
 <!--
     <menuitem name="Menu 1" id="todolist.menu_1" parent="todolist.menu_root"/>
